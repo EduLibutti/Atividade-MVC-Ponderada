@@ -12,10 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Servidor Banco de Dados: Armazena os dados que são manipulados pelos modelos. Quando um modelo precisa de dados, ele faz uma consulta ao banco de dados, que então retorna os dados solicitados para que o modelo possa processá-los.
 
+&nbsp;&nbsp;&nbsp;&nbsp; A imagem ilustra como o MVC facilita a interação entre o usuário e o sistema, mantendo uma separação clara entre a interface do usuário , a lógica de negócios  e o processamento de entrada do usuário.
 
-- Explique os elementos chave do diagrama e como eles se relacionam.
-- Explique as decisões de design e as implicações de cada componente na arquitetura.
-- Explique como a arquitetura atende aos objetivos e requisitos do projeto.
 
 
 
