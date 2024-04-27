@@ -1,3 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp; O MVC, que significa Model-View-Controller, é um padrão de arquitetura de software que divide a aplicação em três componentes principais, model, view e controller, com o objetivo de separar a representação da informação da interação do usuário com ela.
+
 &nbsp;&nbsp;&nbsp;&nbsp; Usuário: Representa a pessoa que interage com a aplicação através do cliente (navegador ou aplicativo).
 
 &nbsp;&nbsp;&nbsp;&nbsp; Cliente: É a interface através da qual o usuário interage com a aplicação.
